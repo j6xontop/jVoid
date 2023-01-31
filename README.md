@@ -7,4 +7,4 @@
 <h3 align="center">Join our discord for updates!</h3>
 <img src="https://cdn.glitch.me/3ffb250d-17ed-4059-96f6-b63105c97664/Capture.PNG?v=1675021589876" width="100px" height="300px"></img>
 <h2 align="center"><a href="https://github.com/notplu/Nullify">Credits to nullify for mins farmer. Check out their github!</a></h2>
-<h2>Also insane credit to H, wang, and plu.</h2>
+<h2>Also insane credit to wang, and plu.</h2>
