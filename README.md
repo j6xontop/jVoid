@@ -5,5 +5,7 @@
 </p>
 <h2 align="center">JMENU is the best i-Ready hack you can possibly find on the internet.</h2>
 <h3 align="center">Join our discord for updates!</h3>
-<p align="center">We have a license for jmenu, I have no problem anyone forking this project. Do NOT remove credits or change the code.</p> 
+<hr>
+<p align="center">We have a license for jmenu, I have no problem anyone forking this project. Do NOT remove credits or change the code.</p>
+<h2>Many people have a problem installing jmenu. We have our own youtube tutorial on how to install it. The youtube tutorial can be found <a href="https://youtu.be/_2X2ozTXwj4">here.</a></h2>
 <h3 align="center">Jmenu is made by J6X. Skipper is by wang and flowings.
