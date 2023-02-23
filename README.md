@@ -1,3 +1,4 @@
+<img src="/files/banner.png"></img>
 <h1 align="center">JMENU</h1>
 <h2 align="center"><a href="https://discord.gg/TTZnAjYXbm">Join our discord!</a></h2>
 <p align="center">
