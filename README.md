@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/J6co0b/jmenu/main/files/jmenu.png" width="100" height="100"></img>
 </p>
-<h1 align="center">JMENU is now replace with InterVoid</h2>
+<h1 align="center">JMENU is now replaced with InterVoid</h2>
 <h2 align="center">Intervoid is the best i-Ready hack you can possibly find on the internet.</h2>
 <h3 align="center">Join our discord for updates!</h3>
 <h2>Many people have a problem installing jmenu. We have our own youtube tutorial on how to install it. The youtube tutorial can be found <a href="https://youtu.be/_2X2ozTXwj4">here.</a></h2>
