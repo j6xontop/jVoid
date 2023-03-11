@@ -3,6 +3,10 @@
 <a href="https://discord.gg/TTZnAjYXbm">
 <img src="https://img.shields.io/discord/1069795442235285554?style=for-the-badge&logo=discord&label=JMENU+Discord"></img>
 </a>
+<a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.youtube.com/watch?v=_2X2ozTXwj4">
+<img src="/files/img/button_tutorial.png"></img>
+</a>
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/J6co0b/jmenu/main/files/jmenu.png" width="100" height="100"></img>
