@@ -1,5 +1,9 @@
 <h1 align="center">InterVoid</h1>
 <p align="center">
+<a href="/intervoid%20(beta)">
+<img src="/files/img/download.png" height="40px"></img>
+</a>
+<a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://discord.gg/TTZnAjYXbm">
 <img src="https://img.shields.io/discord/1069795442235285554?style=for-the-badge&logo=discord&label=JMENU+Discord"></img>
 </a>
