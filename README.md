@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/discord/1069795442235285554?style=for-the-badge&logo=discord&label=JMENU+Discord"></img>
 </a>
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.youtube.com/watch?v=_2X2ozTXwj4">
+<a href="https://www.youtube.com/watch?v=G51ZxC681rA&t">
 <img src="/files/img/button_tutorial.png"></img>
 </a>
 </p>
