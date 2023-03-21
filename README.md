@@ -1,4 +1,4 @@
-<h2 align="center">Status: Down. THE HACK IS DOWN UNTIL MONDAY (tommorow).</h2>
+<h2 align="center">Status: Down. THE HACK IS DOWN UNTIL MONDAY (today).</h2>
 <h1 align="center">InterVoid</h1>
 <p align="center">
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
