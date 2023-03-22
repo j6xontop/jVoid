@@ -1,4 +1,4 @@
-<h2 align="center">Status: Down. THE HACK IS DOWN UNTIL MONDAY (today).</h2>
+<h2 align="center">Intervoid can now be downloaded from discord.</h2>
 <h1 align="center">InterVoid</h1>
 <p align="center">
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
@@ -13,7 +13,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/J6co0b/jmenu/main/files/jmenu.png" width="100" height="100"></img>
 </p>
-<h1 align="center"><a href="/script.js">INTERVOID</a> 2.0 IS OUT 🔥!</h2>
+<h1 align="center"><a href="/script.js">INTERVOID</a> 2.1 IS OUT NOW 🔥!</h2>
 <h2 align="center">Intervoid is the best i-Ready hack you can possibly find on the internet.</h2>
 <h3 align="center">Join our discord for updates!</h3>
 <h2>Many people have a problem installing jmenu. We have our own youtube tutorial on how to install it. The youtube tutorial can be found <a href="https://youtu.be/_2X2ozTXwj4">here.</a></h2>
