@@ -13,7 +13,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/J6co0b/jmenu/main/files/jmenu.png" width="100" height="100"></img>
 </p>
-<h1 align="center"><a href="/script.js">INTERVOID</a> 2.1 IS OUT NOW 🔥!</h2>
+<h1 align="center"><a href="/script.js">INTERVOID</a> 2.2 IS OUT NOW 🔥!</h2>
 <h2 align="center">Intervoid is the best i-Ready hack you can possibly find on the internet.</h2>
 <h3 align="center">Install the hack BELOW.</h3>
 
