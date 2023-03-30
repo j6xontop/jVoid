@@ -1,4 +1,4 @@
-<h2 align="center">Intervoid can now be downloaded from discord.</h2>
+<h2 align="center">InterVoid previous server got deleted. Please join the new one.</h2>
 <h1 align="center">InterVoid</h1>
 <p align="center">
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
