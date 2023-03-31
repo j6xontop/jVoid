@@ -1,6 +1,6 @@
 <h1 align="center">InterVoid 2.6</h1>
-<p align="center">
   <h2 align="center">Bookmark is patched. Use the extension version</h2>
+<p align="center">
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://discord.gg/VnkpeGmv2C">
 <img src="https://img.shields.io/discord/1090752398357708913?style=for-the-badge&logo=discord&label=JMENU+Discord"></img>
