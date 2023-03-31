@@ -1,7 +1,7 @@
 <h1 align="center">InterVoid 2.5</h1>
 <p align="center">
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://discord.gg/TTZnAjYXbm">
+<a href="https://discord.gg/VnkpeGmv2C">
 <img src="https://img.shields.io/discord/1090752398357708913?style=for-the-badge&logo=discord&label=JMENU+Discord"></img>
 </a>
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
