@@ -5,13 +5,12 @@
 <a href="https://discord.gg/VnkpeGmv2C">
 <img src="https://img.shields.io/discord/1090752398357708913?style=for-the-badge&logo=discord&label=JMENU+Discord"></img>
 </a>
-
-<a align="center" href="https://github.com/J6co0b/jmenu/releases/download/2.6/interVoid2.5EXTENSION.zip">Download</a>
-
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.youtube.com/watch?v=G51ZxC681rA&t">
 <img src="/files/img/button_tutorial.png"></img>
 </a>
+<br>
+<h1 align="center"><a align="center" href="https://github.com/J6co0b/jmenu/releases/download/2.6/interVoid2.5EXTENSION.zip">Download</a></h1>
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/J6co0b/jmenu/main/files/jmenu.png" width="100" height="100"></img>
