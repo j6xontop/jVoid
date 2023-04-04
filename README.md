@@ -1,5 +1,7 @@
 <h1 align="center">InterVoid 2.6</h1>
-  <h2 align="center">Bookmark is patched. Use the extension version</h2>
+  <h2 align="center">The bookmark is patched. Use the extension version.</h2>
+  <h4 align="center">THE LESSON SKIPPER CURRENTLY DOES NOT WORK. It is currently impossible to unpatch since i-Ready did a strange update where they remove half of their app chunks. This makes skipper impossible.
+<h4>
 <p align="center">
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://discord.gg/VnkpeGmv2C">
