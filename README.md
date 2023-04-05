@@ -1,4 +1,4 @@
-<h1 align="center">InterVoid 2.6</h1>
+<h1 align="center">jVoid 2.6</h1>
   <h2 align="center">Bookmark is patched. Use the extension version</h2>
 <p align="center">
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
