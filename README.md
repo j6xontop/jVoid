@@ -13,7 +13,7 @@
 <h1 align="center"><a align="center" href="https://github.com/J6co0b/jmenu/releases/download/2.6/interVoid2.5EXTENSION.zip">Download</a></h1>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/J6co0b/jmenu/main/files/jmenu.png" width="100" height="100"></img>
+<img src="/files/jmenu.png" width="100" height="100"></img>
 </p>
 <h1 align="center"><a href="/script.js">INTERVOID</a> 2.6 IS OUT NOW 🔥!</h2>
 <h2 align="center">jVoid is the best i-Ready hack you can possibly find on the internet.</h2>
