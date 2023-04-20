@@ -4,7 +4,7 @@
 <p align="center">
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://discord.gg/VnkpeGmv2C">
-<img src="https://img.shields.io/discord/1090752398357708913?style=for-the-badge&logo=discord&label=JMENU+Discord"></img>
+<img src="https://img.shields.io/discord/1090752398357708913?style=for-the-badge&logo=discord&label=Void+Menu+Discord"></img>
 </a>
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.youtube.com/watch?v=G51ZxC681rA&t">
