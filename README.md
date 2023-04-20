@@ -13,7 +13,7 @@
 <br>
 </p>
 <p align="center">
-<img src="/files/jmenu.png" width="100" height="100"></img>
+<img src="/files/img/logow.png" width="100" height="100"></img>
 </p>
 <h2 align="center">jVoid is the best i-Ready hack you can possibly find on the internet.</h2>
 <br><br>
