@@ -3,7 +3,7 @@
   <h2 align="center">Join discord for updated hacks</h2>
 <p align="center">
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://discord.gg/nullify">
+<a href="https://discord.gg/jvoid">
 <img src="https://img.shields.io/discord/1090752398357708913?style=for-the-badge&logo=discord&label=Void+Menu+Discord"></img>
 </a>
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
