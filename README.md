@@ -1,9 +1,9 @@
 <h1 align="center">VoidMenu</h1>
-<h1 align="center"><a href="https://github.com/j6xontop/jVoid/releases/download/2.3/VoidMenuEX.zip">Download</a></h1>
+<h1 align="center"><a href="https://discord.gg/zzHJKnS5Tj">Download</a></h1>
   <h2 align="center">Join discord for updated hacks</h2>
 <p align="center">
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://discord.gg/wGFKwXKA">
+<a href="https://discord.gg/zzHJKnS5Tj">
 <img src="https://img.shields.io/discord/1090752398357708913?style=for-the-badge&logo=discord&label=Void+Menu+Discord"></img>
 </a>
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
