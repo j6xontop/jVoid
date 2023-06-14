@@ -1,3 +1,4 @@
+<h1 align="center"><a href="https://discord.gg/jvoid"Need i-Ready hacks? join the discord.</a></h1>
 <h1 align="center">VoidMenu</h1>
 <h1 align="center"><a href="https://discord.gg/zzHJKnS5Tj">Download</a></h1>
   <h2 align="center">Join discord for updated hacks</h2>
