@@ -1,2 +1,2 @@
-# Hello, this is J4V ; creator of voidmenu/jvoid
-i quit and i just want to stay away this toxic community. i dont care anymore i hate zeroware i hate everything i hate when people tell me to update voidmenu. why yall do this bro? come on. i build my shit and then yall stupid ass zeroware nullify i dont care bro but just i never want to see you again. creating jmenu thinking my life wouldnt get any worse GO FUCK YOURSELF
+# VoidMenu, a hack that attracts disabled dehydrated retards.
+<h2><a href="https://discord.gg/Jw4jXkzUf5">Join the discord, your most likely to harass me</a></h2>
