@@ -1,2 +1,5 @@
-# VoidMenu, a hack that attracts disabled dehydrated retards.
-<h2><a href="https://discord.gg/Jw4jXkzUf5">Join the discord, your most likely going to harass me</a></h2>
+# VoidMenu may rest in peace. New hack call Ontop
+## Working i-Ready Hacks
+<h2><a href="https://discord.gg/zPBkB9cUUZ">Join the Discord</a></h2>
+<br><br>
+im not a fucking skid punk ass
