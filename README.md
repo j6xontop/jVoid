@@ -19,10 +19,9 @@ Then login to i-Ready and open the console (Ctrl + Shift + J). Paste all the cod
 
 <h2 align="center">FAQ</h2>
 <details>
-  	<summary><b>How do I send feedback about Nullify?</b></summary>
+  	<summary><b>How do I send feedback about NIGGERVOID?</b></summary>
 
-  You can make an issue on the Github repository or leave a comment on our Discord server (listed at the top of this page). But please, be sure to check the rest of the FAQ before bringing up an issue.
-  </details>
+FUCK YOUR ASS SKID PUNK NIGGA  </details>
 
   <details>
   	<summary><b>The script isn't working, what do I do?</b></summary>
